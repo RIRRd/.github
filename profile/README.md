@@ -1,4 +1,4 @@
-<p align="center"><img src="https://rirrd.co.uk/brand/rirrd-avatar.png" width="112" height="112" alt="RIRRd"></p>
+<p align="center"><img src="https://rirrd.net/brand/rirrd-avatar.png" width="112" height="112" alt="RIRRd"></p>
 
 # RIRRd
 
@@ -13,9 +13,9 @@ RPKI validation is a separate service for operators to choose independently.
 - [Source and README](https://github.com/RIRRd/RIRRd)
 - [Beta releases and Linux packages](https://github.com/RIRRd/RIRRd/releases)
 - [Issues and feature requests](https://github.com/RIRRd/RIRRd/issues)
-- [Self-hosting documentation](https://rirrd.co.uk/docs/getting-started/)
-- [Build verification](https://rirrd.co.uk/testing/)
-- [Project and measured benchmarks](https://rirrd.co.uk/)
+- [Self-hosting documentation](https://rirrd.net/docs/getting-started/)
+- [Build verification](https://rirrd.net/testing/)
+- [Project and measured benchmarks](https://rirrd.net/)
 
 [irrd.tools](https://irrd.tools/) is the separate community network and node
 directory. Its first experimental public node is in the United Kingdom,
