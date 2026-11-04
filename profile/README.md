@@ -19,15 +19,17 @@ RPKI validation is a separate service for operators to choose independently.
 
 [irrd.tools](https://irrd.tools/) is the separate community network and node
 directory. Its first experimental public node is in the United Kingdom,
-hosted by **HYEHOST LLC**. Independently operated sponsored nodes can be
-submitted for review through the community website.
+hosted by **HYEHOST LLC**. Independent node listings and managed machine sponsorships have separate
+review workflows on the community website. Website platform and sponsor
+operations source live in a private organization repository; the daemon and
+bundled self-hosted dashboard remain public and MIT licensed.
 
 ## Open source and contributions
 
 Project code is **MIT licensed**: use, modify and redistribute it.
 Human and AI-assisted contributions are welcome. RIRRd is built with AI
 assistance; every change still needs review, reproducible tests and provenance.
-Read [the contribution guide](https://github.com/RIRRd/RIRRd/blob/main/CONTRIBUTING.md)
+Read [the contribution guide](https://github.com/RIRRd/RIRRd/blob/dev/CONTRIBUTING.md)
 and [security policy](https://github.com/RIRRd/RIRRd/security/policy).
 
 Report reproducible beta bugs and compatibility differences through the project
